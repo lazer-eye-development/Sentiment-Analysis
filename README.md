@@ -1,5 +1,3 @@
-# Consumer Sentiment Analysis for Packaging
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python Version">
   <img src="https://img.shields.io/badge/Framework-Streamlit-FF4B4B.svg" alt="Framework">
@@ -7,22 +5,20 @@
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
 </p>
 
-### A powerful tool that analyzes consumer feedback about packaging designs from multiple sources to extract sentiment and actionable insights.
+
 
 ![IMAGE](https://github.com/user-attachments/assets/e629dd10-7136-43b9-976a-d235fb067080)
 
 
 ## 🔍 Overview
 
-This Streamlit application helps packaging design teams understand consumer sentiment by analyzing:
+### A powerful tool that analyzes consumer feedback about packaging designs from multiple sources to extract sentiment and actionable insights.
 
 - **Consumer Reviews** - Direct feedback from buyers about product packaging
 - **Survey Responses** - Structured feedback from market research initiatives
 - **Social Media Comments** - Real-time, unfiltered opinions from social platforms
 
 Using OpenAI's powerful language models, the application extracts sentiment patterns, identifies key themes, and delivers actionable recommendations to improve packaging design decisions.
-
-![Sentiment Analysis Demo](https://via.placeholder.com/800x400?text=Sentiment+Analysis+Demo)
 
 ## ✨ Features
 
