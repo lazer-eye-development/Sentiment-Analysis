@@ -56,8 +56,8 @@ Using OpenAI's powerful language models, the application extracts sentiment patt
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/packaging-sentiment-analysis.git
-cd packaging-sentiment-analysis
+git clone https://github.com/lazer-eye-development/sentiment-analysis.git
+cd sentiment-analysis
 ```
 
 2. **Install required packages:**
@@ -74,7 +74,7 @@ pip install -r requirements.txt
 
 4. **Run the application:**
 ```bash
-streamlit run sentiment.py
+streamlit run app.py
 ```
 
 ## 📊 Usage
